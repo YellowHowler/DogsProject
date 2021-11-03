@@ -1,0 +1,178 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.13f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/luckyrotty/Documents/GitHub/DogsProject/AbandonedDogs
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53019
+Successfully changed project path to: /Users/luckyrotty/Documents/GitHub/DogsProject/AbandonedDogs
+/Users/luckyrotty/Documents/GitHub/DogsProject/AbandonedDogs
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 45.01 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.13f1 (71691879b7f5)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.13f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/luckyrotty/Documents/GitHub/DogsProject/AbandonedDogs/Assets
+GfxDevice: creating device client; threaded=0
+2021-10-21 18:45:17.471 Unity[47849:884101] iMac preferred device: AMD Radeon Pro 580X (high power)
+2021-10-21 18:45:17.471 Unity[47849:884101] Metal devices available: 1
+2021-10-21 18:45:17.471 Unity[47849:884101] 0: AMD Radeon Pro 580X (high power)
+2021-10-21 18:45:17.471 Unity[47849:884101] Using device AMD Radeon Pro 580X (high power)
+Initializing Metal device caps: AMD Radeon Pro 580X
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.13f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.13f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.13f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56849
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.13f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.13f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000948 seconds.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 35.76 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.860 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004106 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.110 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.13f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1951 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 160.5 MB.
+System memory in use after: 160.6 MB.
+
+Unloading 58 unused Assets to reduce memory usage. Loaded Objects now: 2354.
+Total: 4.295143 ms (FindLiveObjects: 0.177008 ms CreateObjectMapping: 0.054024 ms MarkObjects: 3.998327 ms  DeleteObjects: 0.065176 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 8.97 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 47 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.7 MB.
+System memory in use after: 122.8 MB.
+
+Unloading 47 unused Assets to reduce memory usage. Loaded Objects now: 2354.
+Total: 4.120966 ms (FindLiveObjects: 0.158397 ms CreateObjectMapping: 0.056878 ms MarkObjects: 3.884528 ms  DeleteObjects: 0.020623 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/scenes/game.unity
+  artifactKey: Guid(8ca4c4dfee2da064b98fd62b0ccf7bd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scenes/game.unity using Guid(8ca4c4dfee2da064b98fd62b0ccf7bd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '556a2f585f13c23be6614e3e7c03469f') in 0.013296 seconds 
+  Import took 0.015767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017426 seconds.
+  path: Assets/scenes/game.unity
+  artifactKey: Guid(8ca4c4dfee2da064b98fd62b0ccf7bd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scenes/game.unity using Guid(8ca4c4dfee2da064b98fd62b0ccf7bd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '556a2f585f13c23be6614e3e7c03469f') in 0.001321 seconds 
+  Import took 0.004398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.673196 seconds.
+  path: Assets/scenes/loading.unity
+  artifactKey: Guid(f13e8ed2e80bba648992048aa48c554d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scenes/loading.unity using Guid(f13e8ed2e80bba648992048aa48c554d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88f882380d6fd4758fde821f59e6da80') in 0.007171 seconds 
+  Import took 0.010050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.087591 seconds.
+  path: Assets/scenes/logo.unity
+  artifactKey: Guid(90067b006617d4943bdaf419dad6f7f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scenes/logo.unity using Guid(90067b006617d4943bdaf419dad6f7f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0eef651b51bedca18d4ba0ffc37298d') in 0.007068 seconds 
+  Import took 0.009500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.771917 seconds.
+  path: Assets/scenes/main.unity
+  artifactKey: Guid(2e71eb55567b69f44b999b5a306ff47f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scenes/main.unity using Guid(2e71eb55567b69f44b999b5a306ff47f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56a22c78cca47aa57baa804fc0a5b734') in 0.006824 seconds 
+  Import took 0.009372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.698157 seconds.
+  path: Assets/scenes/sample.unity
+  artifactKey: Guid(d33492d1667404847811eb7be3b5570b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scenes/sample.unity using Guid(d33492d1667404847811eb7be3b5570b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bae6a4763d9954d454309943aa0437ee') in 0.002675 seconds 
+  Import took 0.005298 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004236 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.111 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1945 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 160.5 MB.
+System memory in use after: 160.6 MB.
+
+Unloading 49 unused Assets to reduce memory usage. Loaded Objects now: 2357.
+Total: 4.265521 ms (FindLiveObjects: 0.158202 ms CreateObjectMapping: 0.055476 ms MarkObjects: 4.027324 ms  DeleteObjects: 0.023894 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
